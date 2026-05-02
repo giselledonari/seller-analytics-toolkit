@@ -1,4 +1,4 @@
-# Etsy Niche Research Tool
+# Etsy  Research Tool
 
 This is a personal research tool used to analyze public Etsy listing data and external trend signals for market research purposes. The tool helps identify product niches, keyword patterns, pricing ranges, and competitive intensity for Etsy sellers.
 
